@@ -1,0 +1,1 @@
+TOKEN = '7061999239:AAFFKjlQTDjBtnoXrzDpS1EKa0Lsrblpuss'  # Replace with your bot's token
